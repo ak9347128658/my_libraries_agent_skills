@@ -168,6 +168,7 @@ Always run `pskit validate` (for every target cloud: `-p aws`, `-p gcp`, …) af
 | Every CLI command and flag | [references/cli.md](references/cli.md) |
 | Workflows (state machines): states, choice rules, retry/catch, engines | [references/workflows.md](references/workflows.md) |
 | Resources, on-prem services, secrets, publishing to queues/buckets | [references/resources.md](references/resources.md) |
+| All 59 one-click on-prem services (ids for `--service`, studio card names, roles, ports) | [references/onprem-services-catalog.md](references/onprem-services-catalog.md) |
 | Local testing: LocalRunner, http_event, build_event, workflow tests, CI | [references/testing.md](references/testing.md) |
 | Provider matrix, Azure/AWS/GCP/on-prem specifics, troubleshooting | [references/providers-and-troubleshooting.md](references/providers-and-troubleshooting.md) |
 | Porting AWS Lambda + Step Functions to pskit | [references/migrate-from-aws-lambda.md](references/migrate-from-aws-lambda.md) |
